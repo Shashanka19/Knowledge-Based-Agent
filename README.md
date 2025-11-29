@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KnowledgeBase Agent 🧠
 
 A comprehensive AI-powered internal knowledge base system that allows employees to upload company documents and get instant answers to their questions using advanced RAG (Retrieval-Augmented Generation) technology.
@@ -310,3 +311,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <div align="center">
   <strong>Built with ❤️ for internal knowledge management</strong>
 </div>
+=======
+# Knowledge-Based-Agent
+>>>>>>> ef0d6c743798d4f3413e6446805ff2e40d4141eb
